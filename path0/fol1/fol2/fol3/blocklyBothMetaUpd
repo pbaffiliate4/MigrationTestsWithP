@@ -1,1 +1,0 @@
-return publish ('channel1', 'once upon a time',false)
